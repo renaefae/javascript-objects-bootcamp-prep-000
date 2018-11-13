@@ -10,5 +10,6 @@ function removeFromPlaylist (playlist, artist, song){
   return delete playlist.misterFelipe;
 }
 console.log(playlist);
-console.log(updatePlaylist); 
+console.log(updatePlaylist);
 console.log (removeFromPlaylist); 
+console.log(playlist); 
